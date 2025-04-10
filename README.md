@@ -42,14 +42,15 @@ I'm a results-driven full-stack developer based in Jackson, Mississippi, with a 
 
 *(Customize with links to your standout projects)*
 
-- **Project 1:** *[Project Name](https://github.com/zep1994/your-project-link)*  
-  A concise description highlighting its purpose, your role, and the technologies used.
+- **Brazillian Jiu Jitsu Mobile and Web Applicaiton:** *[BjjTrainer]([https://github.com/zep1994/your-project-link](https://github.com/zep1994/BjjTrainer))*  
+  BjjTrainer is a comprehensive tool designed for Brazilian Jiu-Jitsu (BJJ) coaches and students. It enables coaches to track their students' progress and allows students to monitor their own goals, progress, and training history. Additionally, it provides a  workout generator tailored for BJJ practitioners.
 
-- **Project 2:** *[Project Name](https://github.com/zep1994/your-project-link)*  
-  Overview of the project's impact and key innovations implemented.
+- **Bjj Docker API:** *[bjj-api-docker-local-network
+]([https://github.com/zep1994/your-project-link](https://github.com/zep1994/bjj-api-docker-local-network))*  
+  This project sets up a Brazilian Jiu-Jitsu (BJJ) API within a local Docker network, facilitating isolated development and testing environments.
 
-- **Project 3:** *[Project Name](https://github.com/zep1994/your-project-link)*  
-  Describe any measurable improvements, such as performance gains or enhanced security.
+- **My Developer Site:** *[thomas-matlock]([https://github.com/zep1994/your-project-link](https://github.com/zep1994/thomas-matlock))*  
+  This is my website hosted on Render, built using HTML, CSS, and JavaScript (Next.js).
 
 ---
 
