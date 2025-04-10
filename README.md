@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a results-driven full-stack developer based in Jackson, Mississippi with a strong background in software engineering, systems auditing, and digital transformation. With expertise in ASP.NET Core, Blazor, Azure, and CI/CD pipelines, I design scalable and secure applications that drive operational efficiency. My experience spans from optimizing SQL Server performance to automating deployment processes in agile environments—constantly seeking opportunities to mentor teams and implement cutting-edge solutions.
+I'm a results-driven full-stack developer based in Jackson, Mississippi, with a strong background in software engineering, systems auditing, and digital transformation. With expertise in ASP.NET Core, Blazor, Azure, and CI/CD pipelines, I design scalable and secure applications that drive operational efficiency. My experience spans from optimizing SQL Server performance to automating deployment processes in agile environments, constantly seeking opportunities to mentor teams and implement cutting-edge solutions.
 
 ---
 
@@ -27,12 +27,12 @@ I'm a results-driven full-stack developer based in Jackson, Mississippi with a s
 - SQL Server, PostgreSQL, MySQL  
 - Entity Framework, Redis, NoSQL
 
-**Cloud & DevOps:**  
+**CI/CD & DevOps:**  
 - Azure, Docker, YAML Pipelines  
 - CI/CD (Azure DevOps)  
 - Automated Testing (Selenium, Postman)
 
-**Other:**  
+**Tooks & Methodologies**  
 - OAuth2, JWT Authentication, RBAC  
 - Agile methodologies, Code Reviews, Git & GitHub
 
