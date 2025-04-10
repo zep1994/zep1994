@@ -78,7 +78,8 @@ I'm a results-driven full-stack developer based in Jackson, Mississippi, with a 
 ## 📫 Connect with Me
 
 - [LinkedIn](http://linkedin.com/in/tmatlockCISA)  
-- [GitHub](https://github.com/zep1994)  
+- [GitHub](https://github.com/zep1994)
+- [Personal Website](https://matlockbuiltit.dev/)
 - thomasmatlockbba@gmail.com
 
 ---
